@@ -1,0 +1,14 @@
+C:\Projects\FindTheSum\bin\Debug\net7.0\FindTheSum.exe
+C:\Projects\FindTheSum\bin\Debug\net7.0\FindTheSum.deps.json
+C:\Projects\FindTheSum\bin\Debug\net7.0\FindTheSum.runtimeconfig.json
+C:\Projects\FindTheSum\bin\Debug\net7.0\FindTheSum.dll
+C:\Projects\FindTheSum\bin\Debug\net7.0\FindTheSum.pdb
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.AssemblyInfoInputs.cache
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.AssemblyInfo.cs
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.csproj.CoreCompileInputs.cache
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.dll
+C:\Projects\FindTheSum\obj\Debug\net7.0\refint\FindTheSum.dll
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.pdb
+C:\Projects\FindTheSum\obj\Debug\net7.0\FindTheSum.genruntimeconfig.cache
+C:\Projects\FindTheSum\obj\Debug\net7.0\ref\FindTheSum.dll
