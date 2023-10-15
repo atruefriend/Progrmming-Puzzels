@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{128722
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "Arrays\ReverseString\ReverseString.csproj", "{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeArrays", "Arrays\MergeArrays\MergeArrays.csproj", "{09706412-C825-4101-AEB0-EE2878D819AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09706412-C825-4101-AEB0-EE2878D819AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09706412-C825-4101-AEB0-EE2878D819AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09706412-C825-4101-AEB0-EE2878D819AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09706412-C825-4101-AEB0-EE2878D819AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +38,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
+		{09706412-C825-4101-AEB0-EE2878D819AE} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 	EndGlobalSection
 EndGlobal
