@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M03jy3e2JhHoPUid/wSm3xcKB2HL/FRmAmU+9CLU7qo9sUCDu4EsH5VZgRlv/TKAjYWV9qFdonIqmlk8oYfVEw==",
+  "dgSpecHash": "BDFYj78Wzbcw8F3oeDPFHpcZyV0UH4wxK6UT5FjmyeX9/bBRZanL6eSG6QL5M8VcrOSd5O744RuCsJFijKV5DQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ReverseString\\ReverseString.csproj",
+  "projectFilePath": "C:\\Projects\\Arrays\\ReverseString\\ReverseString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

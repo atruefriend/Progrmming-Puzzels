@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ReverseString\\ReverseString.csproj": {}
+    "C:\\Projects\\Arrays\\ReverseString\\ReverseString.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ReverseString\\ReverseString.csproj": {
+    "C:\\Projects\\Arrays\\ReverseString\\ReverseString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ReverseString\\ReverseString.csproj",
+        "projectUniqueName": "C:\\Projects\\Arrays\\ReverseString\\ReverseString.csproj",
         "projectName": "ReverseString",
-        "projectPath": "C:\\Projects\\ReverseString\\ReverseString.csproj",
+        "projectPath": "C:\\Projects\\Arrays\\ReverseString\\ReverseString.csproj",
         "packagesPath": "C:\\Users\\styli\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ReverseString\\obj\\",
+        "outputPath": "C:\\Projects\\Arrays\\ReverseString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

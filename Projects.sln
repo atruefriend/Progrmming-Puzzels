@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheSum", "FindTheSum\FindTheSum.csproj", "{FF7BB3C3-029F-476E-B970-8483988F2BBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheSum", "Arrays\FindTheSum\FindTheSum.csproj", "{FF7BB3C3-029F-476E-B970-8483988F2BBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{1287227E-959E-4481-8DDE-39FDF5C971F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "Arrays\ReverseString\ReverseString.csproj", "{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,11 +19,18 @@ Global
 		{FF7BB3C3-029F-476E-B970-8483988F2BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF7BB3C3-029F-476E-B970-8483988F2BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF7BB3C3-029F-476E-B970-8483988F2BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28EB4D55-F1BE-468C-80C2-B3850D7661A7}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 	EndGlobalSection
 EndGlobal
