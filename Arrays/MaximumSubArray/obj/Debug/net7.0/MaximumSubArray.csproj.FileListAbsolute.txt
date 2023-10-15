@@ -1,0 +1,14 @@
+C:\Projects\Arrays\MaximumSubArray\bin\Debug\net7.0\MaximumSubArray.exe
+C:\Projects\Arrays\MaximumSubArray\bin\Debug\net7.0\MaximumSubArray.deps.json
+C:\Projects\Arrays\MaximumSubArray\bin\Debug\net7.0\MaximumSubArray.runtimeconfig.json
+C:\Projects\Arrays\MaximumSubArray\bin\Debug\net7.0\MaximumSubArray.dll
+C:\Projects\Arrays\MaximumSubArray\bin\Debug\net7.0\MaximumSubArray.pdb
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.AssemblyInfoInputs.cache
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.AssemblyInfo.cs
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.csproj.CoreCompileInputs.cache
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.dll
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\refint\MaximumSubArray.dll
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.pdb
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\MaximumSubArray.genruntimeconfig.cache
+C:\Projects\Arrays\MaximumSubArray\obj\Debug\net7.0\ref\MaximumSubArray.dll
