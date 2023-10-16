@@ -1,0 +1,14 @@
+C:\Projects\Arrays\LongestWord\bin\Debug\net7.0\LongestWord.exe
+C:\Projects\Arrays\LongestWord\bin\Debug\net7.0\LongestWord.deps.json
+C:\Projects\Arrays\LongestWord\bin\Debug\net7.0\LongestWord.runtimeconfig.json
+C:\Projects\Arrays\LongestWord\bin\Debug\net7.0\LongestWord.dll
+C:\Projects\Arrays\LongestWord\bin\Debug\net7.0\LongestWord.pdb
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.AssemblyInfoInputs.cache
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.AssemblyInfo.cs
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.csproj.CoreCompileInputs.cache
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.dll
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\refint\LongestWord.dll
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.pdb
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\LongestWord.genruntimeconfig.cache
+C:\Projects\Arrays\LongestWord\obj\Debug\net7.0\ref\LongestWord.dll

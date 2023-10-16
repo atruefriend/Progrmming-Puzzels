@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeArrays", "Arrays\Merge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray", "Arrays\MaximumSubArray\MaximumSubArray.csproj", "{85551CD7-C9AD-4523-A840-816E6C86B8BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "Arrays\LongestWord\LongestWord.csproj", "{814EC09A-5C2C-4811-85F4-52103938885D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{85551CD7-C9AD-4523-A840-816E6C86B8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85551CD7-C9AD-4523-A840-816E6C86B8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85551CD7-C9AD-4523-A840-816E6C86B8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814EC09A-5C2C-4811-85F4-52103938885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814EC09A-5C2C-4811-85F4-52103938885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814EC09A-5C2C-4811-85F4-52103938885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814EC09A-5C2C-4811-85F4-52103938885D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,5 +52,6 @@ Global
 		{9A161F5F-2A5A-473D-9D97-2D7BB55DEB41} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 		{09706412-C825-4101-AEB0-EE2878D819AE} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 		{85551CD7-C9AD-4523-A840-816E6C86B8BA} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
+		{814EC09A-5C2C-4811-85F4-52103938885D} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 	EndGlobalSection
 EndGlobal
