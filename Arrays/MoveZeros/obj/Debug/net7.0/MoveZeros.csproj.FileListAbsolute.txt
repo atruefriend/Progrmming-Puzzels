@@ -1,0 +1,14 @@
+C:\Projects\Arrays\MoveZeros\bin\Debug\net7.0\MoveZeros.exe
+C:\Projects\Arrays\MoveZeros\bin\Debug\net7.0\MoveZeros.deps.json
+C:\Projects\Arrays\MoveZeros\bin\Debug\net7.0\MoveZeros.runtimeconfig.json
+C:\Projects\Arrays\MoveZeros\bin\Debug\net7.0\MoveZeros.dll
+C:\Projects\Arrays\MoveZeros\bin\Debug\net7.0\MoveZeros.pdb
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.AssemblyInfoInputs.cache
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.AssemblyInfo.cs
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.csproj.CoreCompileInputs.cache
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.dll
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\refint\MoveZeros.dll
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.pdb
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\MoveZeros.genruntimeconfig.cache
+C:\Projects\Arrays\MoveZeros\obj\Debug\net7.0\ref\MoveZeros.dll

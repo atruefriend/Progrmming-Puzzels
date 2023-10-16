@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray", "Arrays\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "Arrays\LongestWord\LongestWord.csproj", "{814EC09A-5C2C-4811-85F4-52103938885D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros", "Arrays\MoveZeros\MoveZeros.csproj", "{09DC8240-F3EF-46C1-91FE-AC237114D980}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{814EC09A-5C2C-4811-85F4-52103938885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814EC09A-5C2C-4811-85F4-52103938885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814EC09A-5C2C-4811-85F4-52103938885D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DC8240-F3EF-46C1-91FE-AC237114D980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DC8240-F3EF-46C1-91FE-AC237114D980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DC8240-F3EF-46C1-91FE-AC237114D980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DC8240-F3EF-46C1-91FE-AC237114D980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +59,6 @@ Global
 		{09706412-C825-4101-AEB0-EE2878D819AE} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 		{85551CD7-C9AD-4523-A840-816E6C86B8BA} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 		{814EC09A-5C2C-4811-85F4-52103938885D} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
+		{09DC8240-F3EF-46C1-91FE-AC237114D980} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 	EndGlobalSection
 EndGlobal
