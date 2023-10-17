@@ -1,0 +1,14 @@
+C:\Projects\HashTables\OwnHashTable\bin\Debug\net7.0\OwnHashTable.exe
+C:\Projects\HashTables\OwnHashTable\bin\Debug\net7.0\OwnHashTable.deps.json
+C:\Projects\HashTables\OwnHashTable\bin\Debug\net7.0\OwnHashTable.runtimeconfig.json
+C:\Projects\HashTables\OwnHashTable\bin\Debug\net7.0\OwnHashTable.dll
+C:\Projects\HashTables\OwnHashTable\bin\Debug\net7.0\OwnHashTable.pdb
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.AssemblyInfoInputs.cache
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.AssemblyInfo.cs
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.csproj.CoreCompileInputs.cache
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.dll
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\refint\OwnHashTable.dll
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.pdb
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\OwnHashTable.genruntimeconfig.cache
+C:\Projects\HashTables\OwnHashTable\obj\Debug\net7.0\ref\OwnHashTable.dll
