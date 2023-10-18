@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N9zaifdm/zDlZuBalLCDnzbv6gjEdoOBlb2kOLhPwxGucP09gUDREmS/cpq72WkaEzL8bebtFPE7fF80g8EeNA==",
+  "dgSpecHash": "B1GCpXWWmZm2NYbrtHSPVU4PB1D0M9gi/FADzfB7J9PghhKXu6L4V2+0Vu6TU6fuyOgNFT1b5KhayNO4705jSA==",
   "success": true,
-  "projectFilePath": "c:\\Projects\\Arrays\\MaximumSubArray\\MaximumSubArray.csproj",
+  "projectFilePath": "C:\\Projects\\Arrays\\MaximumSubArray\\MaximumSubArray.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

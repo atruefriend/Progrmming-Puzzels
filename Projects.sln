@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HashTables", "HashTables", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnHashTable", "HashTables\OwnHashTable\OwnHashTable.csproj", "{300C92A2-987E-4673-A00B-F2DF1E3BE82F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeativeNumber", "HashTables\RepeativeNumber\RepeativeNumber.csproj", "{9B7DFDCA-F57F-446E-9D31-BA76BB371994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{300C92A2-987E-4673-A00B-F2DF1E3BE82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300C92A2-987E-4673-A00B-F2DF1E3BE82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300C92A2-987E-4673-A00B-F2DF1E3BE82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7DFDCA-F57F-446E-9D31-BA76BB371994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7DFDCA-F57F-446E-9D31-BA76BB371994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7DFDCA-F57F-446E-9D31-BA76BB371994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7DFDCA-F57F-446E-9D31-BA76BB371994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,5 +75,6 @@ Global
 		{814EC09A-5C2C-4811-85F4-52103938885D} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 		{09DC8240-F3EF-46C1-91FE-AC237114D980} = {1287227E-959E-4481-8DDE-39FDF5C971F0}
 		{300C92A2-987E-4673-A00B-F2DF1E3BE82F} = {86572A7F-D1FC-4424-98D1-F550C0F62691}
+		{9B7DFDCA-F57F-446E-9D31-BA76BB371994} = {86572A7F-D1FC-4424-98D1-F550C0F62691}
 	EndGlobalSection
 EndGlobal

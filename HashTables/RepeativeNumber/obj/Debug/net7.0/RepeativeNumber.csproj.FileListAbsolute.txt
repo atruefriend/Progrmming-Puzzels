@@ -1,0 +1,14 @@
+C:\Projects\HashTables\RepeativeNumber\bin\Debug\net7.0\RepeativeNumber.exe
+C:\Projects\HashTables\RepeativeNumber\bin\Debug\net7.0\RepeativeNumber.deps.json
+C:\Projects\HashTables\RepeativeNumber\bin\Debug\net7.0\RepeativeNumber.runtimeconfig.json
+C:\Projects\HashTables\RepeativeNumber\bin\Debug\net7.0\RepeativeNumber.dll
+C:\Projects\HashTables\RepeativeNumber\bin\Debug\net7.0\RepeativeNumber.pdb
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.AssemblyInfoInputs.cache
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.AssemblyInfo.cs
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.csproj.CoreCompileInputs.cache
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.dll
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\refint\RepeativeNumber.dll
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.pdb
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\RepeativeNumber.genruntimeconfig.cache
+C:\Projects\HashTables\RepeativeNumber\obj\Debug\net7.0\ref\RepeativeNumber.dll
