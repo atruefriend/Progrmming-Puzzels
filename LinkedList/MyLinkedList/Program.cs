@@ -11,4 +11,6 @@ myLinkedList.Insert(2,99);
 
 Console.WriteLine($"Head: {JsonSerializer.Serialize(myLinkedList.Head).ToString()}; \n Tail: {JsonSerializer.Serialize(myLinkedList.Tail).ToString()}; \n Length: {myLinkedList.Length}");
 
+myLinkedList.Delete(2);
+
 Console.WriteLine($"List: {JsonSerializer.Serialize(myLinkedList.GetValues())}");

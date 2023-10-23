@@ -42,7 +42,7 @@ namespace MyLinkedList
                 var node = new Node(value, null);
                 int pos = 0;
                 Node? currentNode = Head;
-                while (pos <= index)
+                while (pos < index)
                 {
                     if (pos == (index - 1))
                     {
@@ -60,6 +60,44 @@ namespace MyLinkedList
                     pos++;
                 }
             }
+        }
+
+        public void Delete(int index)
+        {
+            if (index <= 0 && Head.Next != null)
+            {
+                Head = Head.Next;
+            }
+            else
+            {
+                int pos = 0;
+                Node? currentNode = Head;
+                Node? targetNode;
+                while (pos < index)
+                {
+                    if (pos == (index - 1))
+                    {
+                        targetNode = currentNode?.Next;
+                        if (currentNode != null && targetNode != null)
+                        {
+                            currentNode.Next = targetNode.Next;
+                        }
+                        break;
+                    }
+                    else
+                    {
+                        currentNode = currentNode?.Next;
+                    }
+                    pos++;
+                }
+
+                if (index == (Length - 1) && currentNode != null)
+                {
+                    Tail = currentNode;
+                }
+            }
+            Length--;
+
         }
 
         public object[] GetValues()
