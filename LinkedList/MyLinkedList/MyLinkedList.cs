@@ -114,6 +114,39 @@ namespace MyLinkedList
 
             return array;
         }
+        
+        public Node ReverseWithRecurssion(Node node)
+        {
+            if(node.Next == null)
+            {
+                Head = node;
+                return Head;
+            }
+            else{
+                var x = ReverseWithRecurssion(node.Next);
+                x.Next = new Node(node.Value, null);
+                return x.Next;
+            }
+        }
+
+        public void Reverse()
+        {
+            if(Head.Next != null)
+            {
+                Tail = new Node(Head.Value, null);
+                var first = Head;
+                var second = Head.Next;
+                while(second != null)
+                {
+                    var x = second.Next;
+                    second.Next = first;
+                    first = second;
+                    second = x;
+                }
+                Head.Next = null;
+                Head = first;
+            }
+        }
     }
 
     public class Node
